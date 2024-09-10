@@ -1,0 +1,13 @@
+.redes-sociais{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    width: 160px;
+}
+
+.redes-sociais img{
+    height: 30px;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+}
