@@ -1,6 +1,6 @@
-# Projeto React: desenvolvendo com JavaScript
+# Estudo React com JS na alura
 
-## 💻 Tópicos do projeto
+## 💻 Tópicos das aulas
 
 - Criamos um novo projeto React
 - Criamos componentes funcionais
